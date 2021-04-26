@@ -1,0 +1,37 @@
+.feed {
+width: 900px;
+height: auto;
+clear: both;
+margin: 0 auto;
+padding: 0;
+display: flex;
+justify-content: space-between;
+}
+
+.tube-box-a {
+width: 200px;
+height: 200px;
+margin-bottom: 2%;
+overflow: hidden;
+}
+
+.tube-box-b {
+width: 200px;
+height: 200px;
+margin-bottom: 2%;
+overflow: hidden;
+}
+
+.tube-box-a iframe, .tube-box-b iframe {
+position: relative;
+top: -55px;
+}
+
+.streamer {
+    margin-bottom: 50px;
+}
+
+.youtube {
+    margin: 10px 0 10px;
+}
+  
